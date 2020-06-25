@@ -37,35 +37,35 @@ WeAreMillions is a massive photo campaign by The Courage Foundation to demonstra
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/1.png?raw=true" alt="Screenshot 1"	width="100%" />
 *WeAreMillions index page*
 
-![alt text](screenshots/2.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/2.png?raw=true" alt="Screenshot 2"	width="100%" />
 *Viewing a photo*
 
-![alt text](screenshots/3.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/3.png?raw=true" alt="Screenshot 3"	width="100%" />
 *Uploading a new photo*
 
-![alt text](screenshots/4.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/4.png?raw=true" alt="Screenshot 4"	width="100%" />
 *Choosing photos when creating a photo collage*
 
-![alt text](screenshots/5.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/5.png?raw=true" alt="Screenshot 5"	width="100%" />
 *Choosing photos when creating a photo collage*
 
-![alt text](screenshots/6.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/6.png?raw=true" alt="Screenshot 6"	width="100%" />
 *Searching for photos to choose from when creating a photo collage*
 
-![alt text](screenshots/7.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/7.png?raw=true" alt="Screenshot 7"	width="100%" />
 *Login form for the admin panel*
 
-![alt text](screenshots/8.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/8.png?raw=true" alt="Screenshot 8"	width="100%" />
 *Approved photos as seen in the admin panel*
 
-![alt text](screenshots/9.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/9.png?raw=true" alt="Screenshot 9"	width="100%" />
 *Editing a photo in the admin panel*
 
-![alt text](screenshots/10.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/10.png?raw=true" alt="Screenshot 10"	width="100%" />
 *Featured photos as seen in the admin panel*
 
-![alt text](screenshots/11.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/11.png?raw=true" alt="Screenshot 11"	width="100%" />
 *List of moderators as seen in the admin panel*
 
-![alt text](screenshots/12.png)
+<img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/12.png?raw=true" alt="Screenshot 12"	width="100%" />
 *Adding a new moderator in the admin panel*
