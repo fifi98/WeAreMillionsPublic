@@ -35,37 +35,49 @@ WeAreMillions is a massive photo campaign by The Courage Foundation to demonstra
 ## Screenshots
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/1.png?raw=true" alt="Screenshot 1"	width="100%" />
+
 *WeAreMillions index page*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/2.png?raw=true" alt="Screenshot 2"	width="100%" />
+
 *Viewing a photo*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/3.png?raw=true" alt="Screenshot 3"	width="100%" />
+
 *Uploading a new photo*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/4.png?raw=true" alt="Screenshot 4"	width="100%" />
+
 *Choosing photos when creating a photo collage*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/5.png?raw=true" alt="Screenshot 5"	width="100%" />
+
 *Choosing photos when creating a photo collage*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/6.png?raw=true" alt="Screenshot 6"	width="100%" />
+
 *Searching for photos to choose from when creating a photo collage*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/7.png?raw=true" alt="Screenshot 7"	width="100%" />
+
 *Login form for the admin panel*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/8.png?raw=true" alt="Screenshot 8"	width="100%" />
+
 *Approved photos as seen in the admin panel*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/9.png?raw=true" alt="Screenshot 9"	width="100%" />
+
 *Editing a photo in the admin panel*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/10.png?raw=true" alt="Screenshot 10"	width="100%" />
+
 *Featured photos as seen in the admin panel*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/11.png?raw=true" alt="Screenshot 11"	width="100%" />
+
 *List of moderators as seen in the admin panel*
 
 <img src="https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/12.png?raw=true" alt="Screenshot 12"	width="100%" />
+
 *Adding a new moderator in the admin panel*
