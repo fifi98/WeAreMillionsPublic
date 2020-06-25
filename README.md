@@ -34,7 +34,7 @@ WeAreMillions is a massive photo campaign by The Courage Foundation to demonstra
  
 ## Screenshots
 
-![alt text](screenshots/1.png)
+![alt text](https://github.com/fifi98/WeAreMillionsPublic/blob/master/screenshots/1.png?raw=true)
 *WeAreMillions index page*
 
 ![alt text](screenshots/2.png)
