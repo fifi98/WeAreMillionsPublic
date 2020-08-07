@@ -3,7 +3,7 @@
 WeAreMillions is a massive photo campaign by The Courage Foundation to demonstrate global support for WikiLeaks. This website allows users to upload photos of them holding signs to express simply and clearly why they are standing up for Julian Assange, whom the US seeks to punish for publishing hundreds of thousands of diplomatic cables and military documents in 2010. When uploading, users can enter their name, photo description/quote and add tags. Photos can be shared directly from the website to Facebook and Twitter and users can create photo collages containing 9 photos they can choose. If so chosen when uploading, photos can be added to the public gallery after admins have approved them regarding which the uploader is notified via email. Admins have access to the admin panel where they can view and edit all the photos, move them to another categories, change its order and delete them.
 
 ## Duration
-- June 2019. - Present
+- June 2019 - Present
 
 ## Technologies used
 - HTML
